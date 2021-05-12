@@ -9,9 +9,8 @@
 ### WELCOME TO MY Homepage :)
 
 
-
-
-
+<div align=left>
+</br></br></br>
 
 
 
@@ -40,7 +39,6 @@
 
 # 2021.05.12 
 
-오늘 만든 것 :
  - [오늘 만든 것 절대경로](./test.md)
  - [오늘 만든 것 상대경로](test.md)
 
