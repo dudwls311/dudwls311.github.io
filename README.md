@@ -43,5 +43,6 @@
 #### 2021.05.21
 -
 -
-
- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dhdhgngn)](https://www.facebook.com/dhdhgngn)
+#
+ [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dhdhgngn)](https://www.facebook.com/dhdhgngn) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/영진-김-452b1b2113/)](https://www.linkedin.com/in/영진-김-452b1b211/)
