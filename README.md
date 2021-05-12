@@ -1,8 +1,13 @@
-# 주인 : 김 영 진 !  
-
-# 영진이의 웹주소 : dudwls311.github.io
+<div align=center>
  
-## WELCOME TO MY Homepage 
+ 
+
+# 주인 : 김 영 진 ! 
+
+## 영진이의 웹주소 : dudwls311.github.io
+ 
+### WELCOME TO MY Homepage :)
+
 
 
 
