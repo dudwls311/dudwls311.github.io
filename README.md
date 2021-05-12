@@ -4,7 +4,11 @@
 
 ## 영진이의 웹주소 : dudwls311.github.io     
 
-### WELCOME TO MY Homepage :)
+### WELCOME TO MY Homepage :) and study note
+
+<br><br>
+
+
 
 
 ![](KakaoTalk_20210512_225601355.jpg)
