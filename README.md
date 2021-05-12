@@ -1,4 +1,4 @@
-<div align=center>
+
  
  
 
@@ -9,8 +9,6 @@
 ### WELCOME TO MY Homepage :)
 
 
-<div align=left>
-</br></br></br>
 
 
 
