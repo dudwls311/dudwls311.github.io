@@ -39,3 +39,5 @@
 # <br>
  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dhdhgngn)](https://www.facebook.com/dhdhgngn) 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/영진-김-452b1b2113/)](https://www.linkedin.com/in/영진-김-452b1b211/)
+ [![instagram Badge](https://img.shields.io/badge/-instagram-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/in/0.0_dean/)](https://www.instagram.com/in/0.0_dean/)
+
