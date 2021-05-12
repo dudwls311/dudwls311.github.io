@@ -1,6 +1,5 @@
+ <div align=center>
 
- 
- 
 
 # 주인 : 김 영 진 !
 
@@ -13,7 +12,7 @@
 
 
 
-
+ <div align=left>
 
 # 2021.05.12 
 
