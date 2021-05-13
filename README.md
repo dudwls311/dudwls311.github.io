@@ -1,10 +1,10 @@
-<div align=center>
+
 
 # 주인 : 김 영 진 !
 
 ### 영진이의 웹주소 : dudwls311.github.io     
 
-#### WELCOME TO MY Homepage :) and study note
+#### WELCOME TO MY Homepag😜 and study note 📖📕
 
 <br><br>
 
@@ -13,7 +13,6 @@
 
 # ![](KakaoTalk_20210512_225601355.jpg)
 
-</div>
 
 <br><br><br>
 
