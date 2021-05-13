@@ -1,4 +1,4 @@
-
+<div align=center>
 
 # 주인 : 김 영 진 !
 
@@ -13,6 +13,7 @@
 
 # ![](KakaoTalk_20210512_225601355.jpg)
 
+</div>
 
 <br><br><br>
 
