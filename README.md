@@ -3,7 +3,7 @@
 # 주인 : 김 영 진 !
 
 ### 영진이의 웹주소 : dudwls311.github.io     
-
+<hr>
 #### WELCOME TO MY Homepag😜 and study note 📖📕
 
 <br><br>
